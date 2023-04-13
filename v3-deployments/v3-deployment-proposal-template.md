@@ -4,7 +4,7 @@
 **L1 or L2 team**: target chain for deployment
 **Proposer**: entity or individual that creates the proposal on forum, and manages the governance process
 **Deployer**: entity that handles the deployment of Uniswap v3 contracts on other chains or L2s
-**Bridge Provider**: cross-chain messaging solution selected from the Bridge Assessment Committee’s recommendations
+**Bridge Provider**: cross-chain messaging solution selected from the Bridge Assessment Committee recommendations
 **Proposal Sponsor**: entity that has enough UNI to sponsor the final on-chain vote. The Uniswap Foundation is typically able to serve as the sponsor for these proposals.
 
 ## Rationale
