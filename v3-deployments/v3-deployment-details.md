@@ -1,12 +1,9 @@
-A list of all deployments (with links)
-
-Any other relevant context about a deployment (e.g. which entities comprise the multisig that can pause the Celo bridge) including any notes from the deployers or deployment verifiers
-Info about upcoming deployments and their current status
-Other relevant links and resources (e.g. crosschain deployment guide, bridge committee report)
-
+### Instructions
+1) Copy this file and replace placeholder text with the relevant details of a given deployment
+2) Open a pull request adding the new .md file, being sure to follow the naming convention `v3-deployment-details-chainName`
 
 # Introduction
-The following documents the deployment and maintenance of the Uniswap V3 smart contracts on `InsertYourChain`
+The following document provides details about the deployment and maintenance of the Uniswap V3 smart contracts on `InsertYourChain`
 
 # Uniswap Contract Deployments
 The latest version of `@uniswap/v3-core`, `@uniswap/v3-periphery`, `@uniswap/swap-router-contracts`, and `@uniswap/v3-staker` are deployed at the addresses listed below.
