@@ -3,7 +3,7 @@ Deploying and configuring the Uniswap v3 smart contracts on a non-Ethereum chain
 
 While you can certainly complete both processes independently, the DAO has formed a cross-chain accountability committee that can help along the way. You can contact the committee here TODO: figure out the best way to solicit inbound.
 # Protocol Deployment and Bridge Configuration
-Deploying the Uniswap contracts and the relevant bridge infrastructure can occur at any point before the on-chain governance vote.
+Deploying the Uniswap contracts and the relevant bridge infrastructure can occur at any point before the on-chain governance vote. The Uniswap accountability committee can provide technical assistant to new deployments. Please reach out to @0xkydo via twitter.
 
 ## Protocol Deployment
 Use the deployment script found here TODO: get link to deploy
