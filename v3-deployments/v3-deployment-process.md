@@ -22,6 +22,7 @@ If you have deployed and verified your contracts prior to your first forum post,
 The Uniswap Foundation convened a Bridge Assessment Committee to define the Uniswap Protocol's cross-chain governance use case and to evaluate a subset of the protocols available through the lens of that use case. Please find the results of the Committee's work [here](https://www.notion.so/uniswap/Bridge-Assessment-Report-0c8477afadce425abac9c0bd175ca382?pvs=4).
 
 ![Uniswap Governance](<Screenshot 2023-07-18 at 2.16.27 PM.png>)
+
 Governance of non-Ethereum deployments of Uniswap requires function calls to pass from the Uniswap Timelock through an arbitrary message passing bridge to a receiver contract on the destination chain and onwards to the destination UniswapV3Factory contract. The receiver contract on the destination chain must be referenced as the owner of the UniswapV3Factory contract.
 
 For Layer 2 blockchains with canonical message passing bridges, the Committee recommends using those bridges. Their implementations vary, and we recommend you talk with the Layer 2 team in question to better understand how their protocol might accommodate the flow described above.
