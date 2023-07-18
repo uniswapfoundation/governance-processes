@@ -1,7 +1,7 @@
 
 Deploying and configuring the Uniswap v3 smart contracts on a non-Ethereum chain and rallying community support for their canonical status are two distinct processes that you can complete in parallel. They culminate in an on-chain vote that, if successful, adds the new deployment to a register of other non-Ethereum deployments governed by the DAO.
 
-While you can certainly complete both processes independently, the DAO has formed a cross-chain accountability committee that can help along the way. Please find a description of their role [here](https://gov.uniswap.org/t/accountability-committee-deployments-agreements/).
+While you can certainly complete both processes independently, the DAO has formed a cross-chain accountability committee that can help along the way. Please find a description of their role and contact information [here](https://gov.uniswap.org/t/accountability-committee-deployments-agreements/).
 
 # Protocol Deployment and Bridge Configuration
 Deploying the Uniswap contracts and the relevant bridge infrastructure can occur at any point before the on-chain governance vote. The Uniswap accountability committee can provide technical assistant to new deployments. Please reach out to @0xkydo via twitter.
