@@ -7,7 +7,7 @@ While you can certainly complete both processes independently, the DAO has forme
 Deploying the Uniswap contracts and the relevant bridge infrastructure can occur at any point before the on-chain governance vote. The Uniswap accountability committee can provide technical assistant to new deployments. Please reach out to @0xkydo via twitter.
 
 ## Protocol deployment
-Deploy, verify, and test the Uniswap V3 contracts to your network using the scripts and instructions found [here](https://github.com/Uniswap/v3-new-chain-deployments).
+Deploy, verify, and test the Uniswap V3 contracts to your network using the scripts and instructions found [here](https://github.com/uniswapfoundation/governance-processes/blob/main/v3-deployments/v3-contract-deployment.md).
 
 If you have deployed and verified your contracts prior to your first forum post, add a table to that post with the Contract Name in one column and the address (preferrably linked to the canonical blockchain explorer) in a second. If you deploy the contracts in the middle of the process, update your forum post or posts with the same table.
 
